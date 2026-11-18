@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1901646591606060618}
   m_Layer: 6
   m_Name: upper left arm
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -242,7 +242,7 @@ GameObject:
   - component: {fileID: 6884926697147002214}
   m_Layer: 6
   m_Name: Head
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -366,7 +366,7 @@ GameObject:
   - component: {fileID: 5309741461979334975}
   m_Layer: 6
   m_Name: lower right arm
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -500,7 +500,7 @@ GameObject:
   - component: {fileID: 1838809062510593774}
   m_Layer: 6
   m_Name: left foot
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -632,7 +632,7 @@ GameObject:
   - component: {fileID: 2511638859876948928}
   m_Layer: 6
   m_Name: right foot sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -725,7 +725,7 @@ GameObject:
   - component: {fileID: 7117440127238740355}
   m_Layer: 6
   m_Name: lower right leg
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -857,7 +857,7 @@ GameObject:
   - component: {fileID: 3744865779580458741}
   m_Layer: 6
   m_Name: upper right leg sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -950,7 +950,7 @@ GameObject:
   - component: {fileID: 2157131975912313000}
   m_Layer: 6
   m_Name: Torso
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1082,7 +1082,7 @@ GameObject:
   - component: {fileID: 7407008460863034845}
   m_Layer: 6
   m_Name: right hand sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1173,7 +1173,7 @@ GameObject:
   - component: {fileID: 6317347827204589426}
   m_Layer: 6
   m_Name: upper left arm sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1264,7 +1264,7 @@ GameObject:
   - component: {fileID: 7615556397319762681}
   m_Layer: 6
   m_Name: torso sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1357,7 +1357,7 @@ GameObject:
   - component: {fileID: 2898298065350764911}
   m_Layer: 6
   m_Name: ponytail
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1498,7 +1498,7 @@ GameObject:
   - component: {fileID: 9039694669464890632}
   m_Layer: 6
   m_Name: right hand
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1630,7 +1630,7 @@ GameObject:
   - component: {fileID: 1055955540027696005}
   m_Layer: 6
   m_Name: left foot sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1723,7 +1723,7 @@ GameObject:
   - component: {fileID: 6122002168092417015}
   m_Layer: 6
   m_Name: upper right leg
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1855,7 +1855,7 @@ GameObject:
   - component: {fileID: 5248901013756618018}
   m_Layer: 6
   m_Name: lower left arm sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1946,7 +1946,7 @@ GameObject:
   - component: {fileID: 1193778452715380796}
   m_Layer: 6
   m_Name: lower right leg sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2037,7 +2037,7 @@ GameObject:
   - component: {fileID: 4121160695551288113}
   m_Layer: 6
   m_Name: left hand sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2130,7 +2130,7 @@ GameObject:
   - component: {fileID: 1985591666091072462}
   m_Layer: 6
   m_Name: upper right arm
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2262,7 +2262,7 @@ GameObject:
   - component: {fileID: 4170849475957332604}
   m_Layer: 6
   m_Name: Triangle
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2353,7 +2353,7 @@ GameObject:
   - component: {fileID: 3285095078806893500}
   m_Layer: 6
   m_Name: hips sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2446,7 +2446,7 @@ GameObject:
   - component: {fileID: 3973243018652956026}
   m_Layer: 6
   m_Name: lower left arm
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2580,7 +2580,7 @@ GameObject:
   - component: {fileID: 1777571063943918409}
   m_Layer: 6
   m_Name: lower left leg
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2712,7 +2712,7 @@ GameObject:
   - component: {fileID: 7516242221457684657}
   m_Layer: 6
   m_Name: ponytailsprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2803,7 +2803,7 @@ GameObject:
   - component: {fileID: 5182452405546309148}
   m_Layer: 6
   m_Name: lower left leg sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2896,7 +2896,7 @@ GameObject:
   - component: {fileID: 1467657839073660907}
   m_Layer: 6
   m_Name: upper left leg
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3028,7 +3028,7 @@ GameObject:
   - component: {fileID: 1572283139848906419}
   m_Layer: 6
   m_Name: lower right arm sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3121,7 +3121,7 @@ GameObject:
   - component: {fileID: 3730541198854756152}
   m_Layer: 6
   m_Name: left hand
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3261,7 +3261,7 @@ GameObject:
   - component: {fileID: 489864205304706762}
   m_Layer: 6
   m_Name: upper right amr sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3354,7 +3354,7 @@ GameObject:
   - component: {fileID: 3449104995883846221}
   m_Layer: 6
   m_Name: right foot
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3488,7 +3488,7 @@ GameObject:
   - component: {fileID: 5673452517046251694}
   m_Layer: 6
   m_Name: Hips
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3620,7 +3620,7 @@ GameObject:
   - component: {fileID: 1652057453768526791}
   m_Layer: 6
   m_Name: Head_Sprite
-  m_TagString: Untagged
+  m_TagString: chud
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
