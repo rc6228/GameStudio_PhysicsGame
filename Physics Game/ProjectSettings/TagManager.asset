@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - chud
+  - TrashCan
   layers:
   - Default
   - TransparentFX
@@ -15,7 +16,7 @@ TagManager:
   - body
   - background
   - foreground
-  - 
+  - trash
   - 
   - 
   - 
@@ -39,11 +40,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: background
+    uniqueID: 291237493
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: background
-    uniqueID: 291237493
+  - name: foreground
+    uniqueID: 3518373065
     locked: 0
   m_RenderingLayers:
   - Default

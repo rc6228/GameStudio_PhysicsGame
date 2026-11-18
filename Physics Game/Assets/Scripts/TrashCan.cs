@@ -1,16 +1,20 @@
+using System;
+using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
-public class TrashCan : MonoBehaviour
+public class TrashCan : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public static bool IsPointerOverTrash { get; private set; }
+
+    public void OnPointerEnter(PointerEventData eventData)
     {
-        
+        Debug.Log("Pointer is over trash");
+        IsPointerOverTrash = true;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OnPointerExit(PointerEventData eventData)
     {
-        
+        IsPointerOverTrash = false;
     }
 }
