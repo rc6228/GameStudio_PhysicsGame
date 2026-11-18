@@ -405,6 +405,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7604210529141899983}
   - component: {fileID: 611178344933773285}
+  - component: {fileID: 3639717878470731394}
   m_Layer: 0
   m_Name: OilBoil
   m_TagString: Untagged
@@ -458,3 +459,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &3639717878470731394
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6509129366052700711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a1c25bfd0f0eee499989b1e30c33fbe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Oil
+  targetTag: chud
+  soundClips: []
